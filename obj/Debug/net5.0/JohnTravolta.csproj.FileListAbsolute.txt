@@ -1,0 +1,16 @@
+C:\Users\Afif\Desktop\C#\JohnTravolta\bin\Debug\net5.0\JohnTravolta.exe
+C:\Users\Afif\Desktop\C#\JohnTravolta\bin\Debug\net5.0\JohnTravolta.deps.json
+C:\Users\Afif\Desktop\C#\JohnTravolta\bin\Debug\net5.0\JohnTravolta.runtimeconfig.json
+C:\Users\Afif\Desktop\C#\JohnTravolta\bin\Debug\net5.0\JohnTravolta.runtimeconfig.dev.json
+C:\Users\Afif\Desktop\C#\JohnTravolta\bin\Debug\net5.0\JohnTravolta.dll
+C:\Users\Afif\Desktop\C#\JohnTravolta\bin\Debug\net5.0\ref\JohnTravolta.dll
+C:\Users\Afif\Desktop\C#\JohnTravolta\bin\Debug\net5.0\JohnTravolta.pdb
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\JohnTravolta.csproj.AssemblyReference.cache
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\JohnTravolta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\JohnTravolta.AssemblyInfoInputs.cache
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\JohnTravolta.AssemblyInfo.cs
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\JohnTravolta.csproj.CoreCompileInputs.cache
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\JohnTravolta.dll
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\ref\JohnTravolta.dll
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\JohnTravolta.pdb
+C:\Users\Afif\Desktop\C#\JohnTravolta\obj\Debug\net5.0\JohnTravolta.genruntimeconfig.cache
