@@ -28,7 +28,6 @@ namespace JohnTravolta
             int jamKerja = Convert.ToInt32(Console.ReadLine());
 
             hitungGaji(jabatan,jamKerja);
-
         }
 
         static void hitungGaji (int jabatan, int jamKerja){
@@ -45,10 +44,9 @@ namespace JohnTravolta
                         jamLembur = jamKerja - 40;
                         jamKerja = 40;
                     }
-
                     totalGaji = (gajiPerJam * jamKerja) + ((gajiPerJam * 1.5) * jamLembur);
-
                     break;
+
                 case 2 : 
                     gajiPerJam = 20_000;
                     if (jamKerja > 40)
@@ -56,10 +54,9 @@ namespace JohnTravolta
                         jamLembur = jamKerja - 40;
                         jamKerja = 40;
                     }
-
                     totalGaji = (gajiPerJam * jamKerja) + ((gajiPerJam * 1.5) * jamLembur);
-
                     break;
+
                 case 3 : 
                     gajiPerJam = 15_000;
                     if (jamKerja > 40)
@@ -67,13 +64,12 @@ namespace JohnTravolta
                         jamLembur = jamKerja - 40;
                         jamKerja = 40;
                     }
-
                     totalGaji = (gajiPerJam * jamKerja) + ((gajiPerJam * 1.5) * jamLembur);
-
                     break;
 
                 default : break;
             }
+            
             System.Console.WriteLine("Anda mendapatkan gaji sebesar Rp.{0} minggu ini.", totalGaji);
             System.Console.Write("Apakah anda ingin melihat detail gaji anda? (y/n) ");
             char yn = Convert.ToChar(Console.ReadLine());
@@ -84,11 +80,7 @@ namespace JohnTravolta
             else
             {
                 Menabung(totalGaji);       
-            }
-
-            
-            
-             
+            }        
         }
 
         static void Details(int jamKerja, int jamLembur, double gajiPerJam, double totalGaji){
