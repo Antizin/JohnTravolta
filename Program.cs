@@ -9,11 +9,11 @@ namespace JohnTravolta
             Console.Write("Bagaimana kami akan memanggilmu? ");
             String nama = Console.ReadLine();
             
-            Main(nama);
+            Start(nama);
         }
 
 
-        static void Main(String nama){
+        static void Start(String nama){
             Console.Clear();
             Console.WriteLine("Selamat datang, {0}", nama);
             Console.WriteLine("Jabatan : ");
